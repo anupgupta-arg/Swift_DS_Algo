@@ -1,4 +1,4 @@
-# Swift Data Structure Algorithum
+# Swift Data Structure & Algorithum
 
 ### Binary Search & Linear Search
 
